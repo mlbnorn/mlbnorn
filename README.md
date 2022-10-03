@@ -10,9 +10,9 @@
 
 <h2>⚡️ A Few Facts</h2>
 <ul>
-<li>👨‍💻 I’m currently working on my <a href="https://github.com/danerkestey/Website"><strong>Portfolio Site</strong></a></li>
-<li>🏫 President of <a href="https://lauriercs.ca/"><strong>Laurier Computing Society</strong></a></li>
-<li>🏆 Co-Founder and Head of Logistics of <a href="https://hawkhacks.ca/"><strong>HawkHacks</strong></a></li>
+<!-- <li>👨‍💻 I’m currently working on my <a href="https://github.com/danerkestey/Website"><strong>Portfolio Site</strong></a></li> -->
+<li>🏫 Event Coordinator of <a href="https://lauriercs.ca/"><strong>Laurier Computing Society</strong></a></li>
+<!--<li>🏆 Co-Founder and Head of Logistics of <a href="https://hawkhacks.ca/"><strong>HawkHacks</strong></a></li>-->
 <li>👟 Love to cook, play football (soccer), basketball, game, and watch anime</li>
 </ul>
 
