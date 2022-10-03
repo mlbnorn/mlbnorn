@@ -4,7 +4,7 @@
 <p>I'm an undergraduate student at WLU studying CS.</p>
 
 
-<p><a href="https://daner.dev/"><img src="https://img.shields.io/badge/-daner.dev-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://daner.dev/" alt="Website Badge"></a> <a href="https://www.linkedin.com/in/daneryasin/"><img src="https://img.shields.io/badge/-@daneryasin-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/daneryasin/" alt="LinkedIn Badge"></a> <a href="https://devpost.com/danerkestey"><img src="https://img.shields.io/badge/-@danerkestey-003E54?style=flat-square&amp;labelColor=003E54&amp;logo=devpost&amp;link=https://devpost.com/danerkestey" alt="Devpost Badge"></a> </a> <img src="https://visitor-badge.glitch.me/badge?page_id=danerkestey.danerkestey" alt="visitors"></p>
+<p><a href="https://daner.dev/"><img src="https://img.shields.io/badge/-daner.dev-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://daner.dev/" alt="Website Badge"></a> <a href="www.linkedin.com/in/nadia-eghnaim"><img src="https://img.shields.io/badge/-@nadia-eghnaim-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/nadia-eghnaim" alt="LinkedIn Badge"></a> <a href="https://devpost.com/mlbnorn"><img src="https://img.shields.io/badge/-@mlbnorn-003E54?style=flat-square&amp;labelColor=003E54&amp;logo=devpost&amp;link=https://devpost.com/mlbnorn" alt="Devpost Badge"></a> </a> <img src="https://visitor-badge.glitch.me/badge?page_id=mlbnorn.mlbnorn" alt="visitors"></p>
 
 
 <h2>⚡️ A Few Facts</h2>
